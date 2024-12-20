@@ -10,12 +10,12 @@ package mahasiswa;
  */
 public class Mahasiswa {
     void membaca(){
-        System.out.println("Mahasiswa sedang membaca....");
+        System.out.println("Mahasiswa Sedang Membaca.");
     }
     void nyontek(){
-        System.out.println("Mahasiswa sedang menyontek....");
+        System.out.println("Mahasiswa Sedang Menyontek.");
     }
     void modifikasi(){
-        System.out.println("Mahasiswa sedang memodifikasi....");
+        System.out.println("Mahasiswa Sedang Memodifikasi.");
     }
 }
